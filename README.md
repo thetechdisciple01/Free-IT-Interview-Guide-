@@ -1,6 +1,6 @@
 # 🖥️ General IT Interview Guide (Free Edition)
 
-The purpose of this repository is to prepare you for your upcoming General IT interview. With 10+ years of experience in IT leadership and operations — across companies like Netflix, FanDuel, Georgia Tech, and Terminus Software — I've been on both sides of the table. I've conducted interviews and I've landed the offers.
+The purpose of this repository is to prepare you for your upcoming General IT interview. With 10+ years of experience in IT leadership and operations — across companies like Netflix, FanDuel, Georgia Tech, and so many others— I've been on both sides of the table. I've conducted interviews and I've landed the offers.
 
 This guide isn't about memorizing answers. It's about understanding the concepts deeply enough to answer confidently in any format — behavioral, technical, or scenario-based.
 
@@ -112,4 +112,4 @@ One-time payment • Lifetime updates • 80+ interview questions
 
 ---
 
-*Built from 10+ years of IT leadership experience across Netflix, FanDuel, Georgia Tech, and Terminus Software.*
+*Built from 10+ years of IT leadership experience across multiple technical domains*
