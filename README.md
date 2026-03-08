@@ -4,7 +4,7 @@ The purpose of this repository is to prepare you for your upcoming General IT in
 
 This guide isn't about memorizing answers. It's about understanding the concepts deeply enough to answer confidently in any format — behavioral, technical, or scenario-based.
 
-**This free version covers interview fundamentals.** For the complete guide covering Networking, IAM, Cloud Infrastructure, ITSM, Security, Leadership, and Scenario-Based Questions, check out the [**Premium Edition**](https://github.com/YOUR_USERNAME/general-it-interview-guide-premium).
+**This free version covers interview fundamentals.** For the complete guide covering Networking, IAM, Cloud Infrastructure, ITSM, Security, Leadership, and Scenario-Based Questions, check out the [**Premium Edition**](https://bricesen.gumroad.com/l/abvki).
 
 If you have questions or issues, use the Issues tab.
 
